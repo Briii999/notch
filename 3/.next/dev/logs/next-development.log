@@ -1,0 +1,2276 @@
+[00:00:00.950] Server  LOG     ✓ Ready in 702ms
+[00:09:07.493] Server  ERROR   ⨯ ./app/page.tsx:2:1
+Module not found: Can't resolve '../hooks/useUser'
+  1 | import { useMemo, useState } from "react";
+> 2 | import { useUser } from "../hooks/useUser";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 |
+  4 | const UserDirectory = () => {
+  5 |   const { users, loading, error, refetch } = useUser();
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:09:07.495] Server  ERROR   ⨯ ./app/page.tsx:2:1
+Module not found: Can't resolve '../hooks/useUser'
+  1 | import { useMemo, useState } from "react";
+> 2 | import { useUser } from "../hooks/useUser";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 |
+  4 | const UserDirectory = () => {
+  5 |   const { users, loading, error, refetch } = useUser();
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:09:07.499] Server  ERROR   ⨯ ./app/page.tsx:2:1
+Module not found: Can't resolve '../hooks/useUser'
+  1 | import { useMemo, useState } from "react";
+> 2 | import { useUser } from "../hooks/useUser";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 |
+  4 | const UserDirectory = () => {
+  5 |   const { users, loading, error, refetch } = useUser();
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:09:07.502] Server  ERROR   ⨯ ./app/page.tsx:2:1
+Module not found: Can't resolve '../hooks/useUser'
+  1 | import { useMemo, useState } from "react";
+> 2 | import { useUser } from "../hooks/useUser";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 |
+  4 | const UserDirectory = () => {
+  5 |   const { users, loading, error, refetch } = useUser();
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:09:07.503] Server  ERROR   ⨯ ./app/page.tsx:2:1
+Module not found: Can't resolve '../hooks/useUser'
+  1 | import { useMemo, useState } from "react";
+> 2 | import { useUser } from "../hooks/useUser";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 |
+  4 | const UserDirectory = () => {
+  5 |   const { users, loading, error, refetch } = useUser();
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:09:07.504] Server  ERROR   ⨯ ./app/page.tsx:2:1
+Module not found: Can't resolve '../hooks/useUser'
+  1 | import { useMemo, useState } from "react";
+> 2 | import { useUser } from "../hooks/useUser";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 |
+  4 | const UserDirectory = () => {
+  5 |   const { users, loading, error, refetch } = useUser();
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:09:07.505] Server  ERROR   ⨯ ./app/page.tsx:2:1
+Module not found: Can't resolve '../hooks/useUser'
+  1 | import { useMemo, useState } from "react";
+> 2 | import { useUser } from "../hooks/useUser";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 |
+  4 | const UserDirectory = () => {
+  5 |   const { users, loading, error, refetch } = useUser();
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:09:07.505] Server  ERROR   ⨯ ./app/page.tsx:2:1
+Module not found: Can't resolve '../hooks/useUser'
+  1 | import { useMemo, useState } from "react";
+> 2 | import { useUser } from "../hooks/useUser";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 |
+  4 | const UserDirectory = () => {
+  5 |   const { users, loading, error, refetch } = useUser();
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:09:07.506] Server  ERROR   ⨯ ./app/page.tsx:2:1
+Module not found: Can't resolve '../hooks/useUser'
+  1 | import { useMemo, useState } from "react";
+> 2 | import { useUser } from "../hooks/useUser";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 |
+  4 | const UserDirectory = () => {
+  5 |   const { users, loading, error, refetch } = useUser();
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:09:07.506] Server  ERROR   ⨯ ./app/page.tsx:2:1
+Module not found: Can't resolve '../hooks/useUser'
+  1 | import { useMemo, useState } from "react";
+> 2 | import { useUser } from "../hooks/useUser";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 |
+  4 | const UserDirectory = () => {
+  5 |   const { users, loading, error, refetch } = useUser();
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:09:07.507] Server  ERROR   ⨯ ./app/page.tsx:2:1
+Module not found: Can't resolve '../hooks/useUser'
+  1 | import { useMemo, useState } from "react";
+> 2 | import { useUser } from "../hooks/useUser";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 |
+  4 | const UserDirectory = () => {
+  5 |   const { users, loading, error, refetch } = useUser();
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:09:07.508] Server  ERROR   ⨯ ./app/page.tsx:2:1
+Module not found: Can't resolve '../hooks/useUser'
+  1 | import { useMemo, useState } from "react";
+> 2 | import { useUser } from "../hooks/useUser";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 |
+  4 | const UserDirectory = () => {
+  5 |   const { users, loading, error, refetch } = useUser();
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:09:07.508] Server  ERROR   ⨯ ./app/page.tsx:2:1
+Module not found: Can't resolve '../hooks/useUser'
+  1 | import { useMemo, useState } from "react";
+> 2 | import { useUser } from "../hooks/useUser";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 |
+  4 | const UserDirectory = () => {
+  5 |   const { users, loading, error, refetch } = useUser();
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:09:07.509] Server  ERROR   ⨯ ./app/page.tsx:2:1
+Module not found: Can't resolve '../hooks/useUser'
+  1 | import { useMemo, useState } from "react";
+> 2 | import { useUser } from "../hooks/useUser";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 |
+  4 | const UserDirectory = () => {
+  5 |   const { users, loading, error, refetch } = useUser();
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:09:07.516] Server  LOG     ✓ Compiled in 133ms
+[00:09:07.938] Browser ERROR   ./app/page.tsx:1:19
+Ecmascript file had an error
+> 1 | import { useMemo, useState } from "react";
+    |                   ^^^^^^^^
+  2 | import { useUser } from "../hooks/useUser";
+  3 |
+  4 | const UserDirectory = () => {
+
+You're importing a component that needs `useState`. This React Hook only works in a Client Component. To fix, mark the file (or its parent) with the `"use client"` directive.
+
+ Learn more: https://nextjs.org/docs/app/api-reference/directives/use-client
+[00:09:07.938] Browser ERROR   ./app/page.tsx:2:1
+Module not found: Can't resolve '../hooks/useUser'
+  1 | import { useMemo, useState } from "react";
+> 2 | import { useUser } from "../hooks/useUser";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 |
+  4 | const UserDirectory = () => {
+  5 |   const { users, loading, error, refetch } = useUser();
+
+https://nextjs.org/docs/messages/module-not-found
+[00:09:17.936] Browser ERROR   ./app/hooks/useUser.ts:2:23
+Ecmascript file had an error
+  1 | import axios from "axios";
+> 2 | import { useCallback, useEffect, useState } from "react";
+    |                       ^^^^^^^^^
+  3 | import { IUser } from "../types/user";
+  4 |
+  5 | const api = axios.create({
+
+You're importing a component that needs `useEffect`. This React Hook only works in a Client Component. To fix, mark the file (or its parent) with the `"use client"` directive.
+
+ Learn more: https://nextjs.org/docs/app/api-reference/directives/use-client
+
+Import trace:
+  Server Component:
+    ./app/hooks/useUser.ts
+    ./app/page.tsx
+[00:09:17.936] Browser ERROR   ./app/hooks/useUser.ts:2:34
+Ecmascript file had an error
+  1 | import axios from "axios";
+> 2 | import { useCallback, useEffect, useState } from "react";
+    |                                  ^^^^^^^^
+  3 | import { IUser } from "../types/user";
+  4 |
+  5 | const api = axios.create({
+
+You're importing a component that needs `useState`. This React Hook only works in a Client Component. To fix, mark the file (or its parent) with the `"use client"` directive.
+
+ Learn more: https://nextjs.org/docs/app/api-reference/directives/use-client
+
+Import trace:
+  Server Component:
+    ./app/hooks/useUser.ts
+    ./app/page.tsx
+[00:09:17.936] Browser ERROR   ./app/page.tsx:1:19
+Ecmascript file had an error
+> 1 | import { useMemo, useState } from "react";
+    |                   ^^^^^^^^
+  2 | import { useUser } from "./hooks/useUser";
+  3 |
+  4 | const UserDirectory = () => {
+
+You're importing a component that needs `useState`. This React Hook only works in a Client Component. To fix, mark the file (or its parent) with the `"use client"` directive.
+
+ Learn more: https://nextjs.org/docs/app/api-reference/directives/use-client
+[00:09:28.938] Browser ERROR   ./app/hooks/useUser.ts:2:23
+Ecmascript file had an error
+  1 | import axios from "axios";
+> 2 | import { useCallback, useEffect, useState } from "react";
+    |                       ^^^^^^^^^
+  3 | import { IUser } from "../types/user";
+  4 |
+  5 | const api = axios.create({
+
+You're importing a component that needs `useEffect`. This React Hook only works in a Client Component. To fix, mark the file (or its parent) with the `"use client"` directive.
+
+ Learn more: https://nextjs.org/docs/app/api-reference/directives/use-client
+
+Import trace:
+  Server Component:
+    ./app/hooks/useUser.ts
+    ./app/page.tsx
+[00:09:28.938] Browser ERROR   ./app/hooks/useUser.ts:2:34
+Ecmascript file had an error
+  1 | import axios from "axios";
+> 2 | import { useCallback, useEffect, useState } from "react";
+    |                                  ^^^^^^^^
+  3 | import { IUser } from "../types/user";
+  4 |
+  5 | const api = axios.create({
+
+You're importing a component that needs `useState`. This React Hook only works in a Client Component. To fix, mark the file (or its parent) with the `"use client"` directive.
+
+ Learn more: https://nextjs.org/docs/app/api-reference/directives/use-client
+
+Import trace:
+  Server Component:
+    ./app/hooks/useUser.ts
+    ./app/page.tsx
+[00:09:28.938] Browser ERROR   ./app/page.tsx:1:19
+Ecmascript file had an error
+> 1 | import { useMemo, useState } from "react";
+    |                   ^^^^^^^^
+  2 | import { useUser } from "./hooks/useUser";
+  3 |
+  4 | const UserDirectory = () => {
+
+You're importing a component that needs `useState`. This React Hook only works in a Client Component. To fix, mark the file (or its parent) with the `"use client"` directive.
+
+ Learn more: https://nextjs.org/docs/app/api-reference/directives/use-client
+[00:10:08.367] Server  LOG     ✓ Compiled in 30ms
+[00:10:08.938] Browser ERROR   ./app/hooks/useUser.ts:2:23
+Ecmascript file had an error
+  1 | import axios from "axios";
+> 2 | import { useCallback, useEffect, useState } from "react";
+    |                       ^^^^^^^^^
+  3 | import { IUser } from "../types/user";
+  4 |
+  5 | const api = axios.create({
+
+You're importing a component that needs `useEffect`. This React Hook only works in a Client Component. To fix, mark the file (or its parent) with the `"use client"` directive.
+
+ Learn more: https://nextjs.org/docs/app/api-reference/directives/use-client
+
+Import trace:
+  Server Component:
+    ./app/hooks/useUser.ts
+    ./app/page.tsx
+[00:10:08.938] Browser ERROR   ./app/hooks/useUser.ts:2:34
+Ecmascript file had an error
+  1 | import axios from "axios";
+> 2 | import { useCallback, useEffect, useState } from "react";
+    |                                  ^^^^^^^^
+  3 | import { IUser } from "../types/user";
+  4 |
+  5 | const api = axios.create({
+
+You're importing a component that needs `useState`. This React Hook only works in a Client Component. To fix, mark the file (or its parent) with the `"use client"` directive.
+
+ Learn more: https://nextjs.org/docs/app/api-reference/directives/use-client
+
+Import trace:
+  Server Component:
+    ./app/hooks/useUser.ts
+    ./app/page.tsx
+[00:10:08.938] Browser ERROR   ./app/page.tsx:1:19
+Ecmascript file had an error
+> 1 | import { useMemo, useState } from "react";
+    |                   ^^^^^^^^
+  2 | import { useUser } from "./hooks/useUser";
+  3 |
+  4 | export default function Page() {
+
+You're importing a component that needs `useState`. This React Hook only works in a Client Component. To fix, mark the file (or its parent) with the `"use client"` directive.
+
+ Learn more: https://nextjs.org/docs/app/api-reference/directives/use-client
+[00:10:12.945] Browser ERROR   ./app/hooks/useUser.ts:2:23
+Ecmascript file had an error
+  1 | import axios from "axios";
+> 2 | import { useCallback, useEffect, useState } from "react";
+    |                       ^^^^^^^^^
+  3 | import { IUser } from "../types/user";
+  4 |
+  5 | const api = axios.create({
+
+You're importing a component that needs `useEffect`. This React Hook only works in a Client Component. To fix, mark the file (or its parent) with the `"use client"` directive.
+
+ Learn more: https://nextjs.org/docs/app/api-reference/directives/use-client
+
+Import trace:
+  Server Component:
+    ./app/hooks/useUser.ts
+    ./app/page.tsx
+[00:10:12.945] Browser ERROR   ./app/hooks/useUser.ts:2:34
+Ecmascript file had an error
+  1 | import axios from "axios";
+> 2 | import { useCallback, useEffect, useState } from "react";
+    |                                  ^^^^^^^^
+  3 | import { IUser } from "../types/user";
+  4 |
+  5 | const api = axios.create({
+
+You're importing a component that needs `useState`. This React Hook only works in a Client Component. To fix, mark the file (or its parent) with the `"use client"` directive.
+
+ Learn more: https://nextjs.org/docs/app/api-reference/directives/use-client
+
+Import trace:
+  Server Component:
+    ./app/hooks/useUser.ts
+    ./app/page.tsx
+[00:10:12.945] Browser ERROR   ./app/page.tsx:1:19
+Ecmascript file had an error
+> 1 | import { useMemo, useState } from "react";
+    |                   ^^^^^^^^
+  2 | import { useUser } from "./hooks/useUser";
+  3 |
+  4 | export default function Page() {
+
+You're importing a component that needs `useState`. This React Hook only works in a Client Component. To fix, mark the file (or its parent) with the `"use client"` directive.
+
+ Learn more: https://nextjs.org/docs/app/api-reference/directives/use-client
+[00:11:01.937] Browser ERROR   ./app/hooks/useUser.ts:2:23
+Ecmascript file had an error
+  1 | import axios from "axios";
+> 2 | import { useCallback, useEffect, useState } from "react";
+    |                       ^^^^^^^^^
+  3 | import { IUser } from "../types/user";
+  4 |
+  5 | const api = axios.create({
+
+You're importing a component that needs `useEffect`. This React Hook only works in a Client Component. To fix, mark the file (or its parent) with the `"use client"` directive.
+
+ Learn more: https://nextjs.org/docs/app/api-reference/directives/use-client
+
+Import trace:
+  Server Component:
+    ./app/hooks/useUser.ts
+    ./app/page.tsx
+[00:11:01.937] Browser ERROR   ./app/hooks/useUser.ts:2:34
+Ecmascript file had an error
+  1 | import axios from "axios";
+> 2 | import { useCallback, useEffect, useState } from "react";
+    |                                  ^^^^^^^^
+  3 | import { IUser } from "../types/user";
+  4 |
+  5 | const api = axios.create({
+
+You're importing a component that needs `useState`. This React Hook only works in a Client Component. To fix, mark the file (or its parent) with the `"use client"` directive.
+
+ Learn more: https://nextjs.org/docs/app/api-reference/directives/use-client
+
+Import trace:
+  Server Component:
+    ./app/hooks/useUser.ts
+    ./app/page.tsx
+[00:11:01.937] Browser ERROR   ./app/page.tsx:1:19
+Ecmascript file had an error
+> 1 | import { useMemo, useState } from "react";
+    |                   ^^^^^^^^
+  2 | import { useUser } from "./hooks/useUser";
+  3 |
+  4 | export default function Page() {
+
+You're importing a component that needs `useState`. This React Hook only works in a Client Component. To fix, mark the file (or its parent) with the `"use client"` directive.
+
+ Learn more: https://nextjs.org/docs/app/api-reference/directives/use-client
+[00:11:10.937] Browser ERROR   ./app/hooks/useUser.ts:2:23
+Ecmascript file had an error
+  1 | import axios from "axios";
+> 2 | import { useCallback, useEffect, useState } from "react";
+    |                       ^^^^^^^^^
+  3 | import { IUser } from "../types/user";
+  4 |
+  5 | const api = axios.create({
+
+You're importing a component that needs `useEffect`. This React Hook only works in a Client Component. To fix, mark the file (or its parent) with the `"use client"` directive.
+
+ Learn more: https://nextjs.org/docs/app/api-reference/directives/use-client
+
+Import trace:
+  Server Component:
+    ./app/hooks/useUser.ts
+    ./app/page.tsx
+[00:11:10.937] Browser ERROR   ./app/hooks/useUser.ts:2:34
+Ecmascript file had an error
+  1 | import axios from "axios";
+> 2 | import { useCallback, useEffect, useState } from "react";
+    |                                  ^^^^^^^^
+  3 | import { IUser } from "../types/user";
+  4 |
+  5 | const api = axios.create({
+
+You're importing a component that needs `useState`. This React Hook only works in a Client Component. To fix, mark the file (or its parent) with the `"use client"` directive.
+
+ Learn more: https://nextjs.org/docs/app/api-reference/directives/use-client
+
+Import trace:
+  Server Component:
+    ./app/hooks/useUser.ts
+    ./app/page.tsx
+[00:11:10.937] Browser ERROR   ./app/page.tsx:1:19
+Ecmascript file had an error
+> 1 | import { useMemo, useState } from "react";
+    |                   ^^^^^^^^
+  2 | import { useUser } from "./hooks/useUser";
+  3 |
+  4 | export default function Page() {
+
+You're importing a component that needs `useState`. This React Hook only works in a Client Component. To fix, mark the file (or its parent) with the `"use client"` directive.
+
+ Learn more: https://nextjs.org/docs/app/api-reference/directives/use-client
+[00:11:17.937] Browser ERROR   ./app/hooks/useUser.ts:2:23
+Ecmascript file had an error
+  1 | import axios from "axios";
+> 2 | import { useCallback, useEffect, useState } from "react";
+    |                       ^^^^^^^^^
+  3 | import { IUser } from "../types/user";
+  4 |
+  5 | const api = axios.create({
+
+You're importing a component that needs `useEffect`. This React Hook only works in a Client Component. To fix, mark the file (or its parent) with the `"use client"` directive.
+
+ Learn more: https://nextjs.org/docs/app/api-reference/directives/use-client
+
+Import trace:
+  Server Component:
+    ./app/hooks/useUser.ts
+    ./app/page.tsx
+[00:11:17.937] Browser ERROR   ./app/hooks/useUser.ts:2:34
+Ecmascript file had an error
+  1 | import axios from "axios";
+> 2 | import { useCallback, useEffect, useState } from "react";
+    |                                  ^^^^^^^^
+  3 | import { IUser } from "../types/user";
+  4 |
+  5 | const api = axios.create({
+
+You're importing a component that needs `useState`. This React Hook only works in a Client Component. To fix, mark the file (or its parent) with the `"use client"` directive.
+
+ Learn more: https://nextjs.org/docs/app/api-reference/directives/use-client
+
+Import trace:
+  Server Component:
+    ./app/hooks/useUser.ts
+    ./app/page.tsx
+[00:11:17.937] Browser ERROR   ./app/page.tsx:1:19
+Ecmascript file had an error
+> 1 | import { useMemo, useState } from "react";
+    |                   ^^^^^^^^
+  2 | import { useUser } from "./hooks/useUser";
+  3 |
+  4 | export default function Page() {
+
+You're importing a component that needs `useState`. This React Hook only works in a Client Component. To fix, mark the file (or its parent) with the `"use client"` directive.
+
+ Learn more: https://nextjs.org/docs/app/api-reference/directives/use-client
+[00:11:27.939] Browser ERROR   ./app/hooks/useUser.ts:2:23
+Ecmascript file had an error
+  1 | import axios from "axios";
+> 2 | import { useCallback, useEffect, useState } from "react";
+    |                       ^^^^^^^^^
+  3 | import { IUser } from "../types/user";
+  4 |
+  5 | const api = axios.create({
+
+You're importing a component that needs `useEffect`. This React Hook only works in a Client Component. To fix, mark the file (or its parent) with the `"use client"` directive.
+
+ Learn more: https://nextjs.org/docs/app/api-reference/directives/use-client
+
+Import trace:
+  Server Component:
+    ./app/hooks/useUser.ts
+    ./app/page.tsx
+[00:11:27.939] Browser ERROR   ./app/hooks/useUser.ts:2:34
+Ecmascript file had an error
+  1 | import axios from "axios";
+> 2 | import { useCallback, useEffect, useState } from "react";
+    |                                  ^^^^^^^^
+  3 | import { IUser } from "../types/user";
+  4 |
+  5 | const api = axios.create({
+
+You're importing a component that needs `useState`. This React Hook only works in a Client Component. To fix, mark the file (or its parent) with the `"use client"` directive.
+
+ Learn more: https://nextjs.org/docs/app/api-reference/directives/use-client
+
+Import trace:
+  Server Component:
+    ./app/hooks/useUser.ts
+    ./app/page.tsx
+[00:11:27.939] Browser ERROR   ./app/page.tsx:1:19
+Ecmascript file had an error
+> 1 | import { useMemo, useState } from "react";
+    |                   ^^^^^^^^
+  2 | import { useUser } from "./hooks/useUser";
+  3 |
+  4 | export default function Page() {
+
+You're importing a component that needs `useState`. This React Hook only works in a Client Component. To fix, mark the file (or its parent) with the `"use client"` directive.
+
+ Learn more: https://nextjs.org/docs/app/api-reference/directives/use-client
+[00:11:37.937] Browser ERROR   ./app/page.tsx:1:19
+Ecmascript file had an error
+> 1 | import { useMemo, useState } from "react";
+    |                   ^^^^^^^^
+  2 | import { useUser } from "./hooks/useUser";
+  3 |
+  4 | export default function Page() {
+
+You're importing a component that needs `useState`. This React Hook only works in a Client Component. To fix, mark the file (or its parent) with the `"use client"` directive.
+
+ Learn more: https://nextjs.org/docs/app/api-reference/directives/use-client
+[00:11:37.937] Browser ERROR   ./app/hooks/useUser.ts:6:16
+Parsing ecmascript source code failed
+  4 |   return (
+  5 |     <main>
+> 6 |       <h1>User Directory</h1>
+    |                ^^^^^^^^^
+  7 |       <UserDirectoryClient />
+  8 |     </main>
+  9 |   );
+
+Expected ',', got 'Directory'
+
+Import trace:
+  Server Component:
+    ./app/hooks/useUser.ts
+    ./app/page.tsx
+[00:11:56.937] Browser ERROR   ./app/page.tsx:1:19
+Ecmascript file had an error
+> 1 | import { useMemo, useState } from "react";
+    |                   ^^^^^^^^
+  2 | import { useUser } from "./hooks/useUser";
+  3 |
+  4 | export default function Page() {
+
+You're importing a component that needs `useState`. This React Hook only works in a Client Component. To fix, mark the file (or its parent) with the `"use client"` directive.
+
+ Learn more: https://nextjs.org/docs/app/api-reference/directives/use-client
+[00:11:56.937] Browser ERROR   ./app/page.tsx:2:1
+Export useUser doesn't exist in target module
+  1 | import { useMemo, useState } from "react";
+> 2 | import { useUser } from "./hooks/useUser";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 |
+  4 | export default function Page() {
+  5 |   const { users, loading, error, refetch } = useUser();
+
+The export useUser was not found in module [project]/app/hooks/useUser.ts [app-rsc] (ecmascript).
+The module has no exports at all.
+All exports of the module are statically known (It doesn't have dynamic exports). So it's known statically that the requested export doesn't exist.
+[00:11:58.937] Browser ERROR   ./app/hooks/useUser.ts:2:23
+Ecmascript file had an error
+  1 | import axios from "axios";
+> 2 | import { useCallback, useEffect, useState } from "react";
+    |                       ^^^^^^^^^
+  3 | import { IUser } from "../types/user";
+  4 |
+  5 | const api = axios.create({
+
+You're importing a component that needs `useEffect`. This React Hook only works in a Client Component. To fix, mark the file (or its parent) with the `"use client"` directive.
+
+ Learn more: https://nextjs.org/docs/app/api-reference/directives/use-client
+
+Import trace:
+  Server Component:
+    ./app/hooks/useUser.ts
+    ./app/page.tsx
+[00:11:58.937] Browser ERROR   ./app/hooks/useUser.ts:2:34
+Ecmascript file had an error
+  1 | import axios from "axios";
+> 2 | import { useCallback, useEffect, useState } from "react";
+    |                                  ^^^^^^^^
+  3 | import { IUser } from "../types/user";
+  4 |
+  5 | const api = axios.create({
+
+You're importing a component that needs `useState`. This React Hook only works in a Client Component. To fix, mark the file (or its parent) with the `"use client"` directive.
+
+ Learn more: https://nextjs.org/docs/app/api-reference/directives/use-client
+
+Import trace:
+  Server Component:
+    ./app/hooks/useUser.ts
+    ./app/page.tsx
+[00:11:58.937] Browser ERROR   ./app/page.tsx:1:19
+Ecmascript file had an error
+> 1 | import { useMemo, useState } from "react";
+    |                   ^^^^^^^^
+  2 | import { useUser } from "./hooks/useUser";
+  3 |
+  4 | export default function Page() {
+
+You're importing a component that needs `useState`. This React Hook only works in a Client Component. To fix, mark the file (or its parent) with the `"use client"` directive.
+
+ Learn more: https://nextjs.org/docs/app/api-reference/directives/use-client
+[00:12:01.937] Browser ERROR   ./app/hooks/useUser.ts:2:23
+Ecmascript file had an error
+  1 | import axios from "axios";
+> 2 | import { useCallback, useEffect, useState } from "react";
+    |                       ^^^^^^^^^
+  3 | import { IUser } from "../types/user";
+  4 |
+  5 | const api = axios.create({
+
+You're importing a component that needs `useEffect`. This React Hook only works in a Client Component. To fix, mark the file (or its parent) with the `"use client"` directive.
+
+ Learn more: https://nextjs.org/docs/app/api-reference/directives/use-client
+
+Import trace:
+  Server Component:
+    ./app/hooks/useUser.ts
+    ./app/page.tsx
+[00:12:01.937] Browser ERROR   ./app/hooks/useUser.ts:2:34
+Ecmascript file had an error
+  1 | import axios from "axios";
+> 2 | import { useCallback, useEffect, useState } from "react";
+    |                                  ^^^^^^^^
+  3 | import { IUser } from "../types/user";
+  4 |
+  5 | const api = axios.create({
+
+You're importing a component that needs `useState`. This React Hook only works in a Client Component. To fix, mark the file (or its parent) with the `"use client"` directive.
+
+ Learn more: https://nextjs.org/docs/app/api-reference/directives/use-client
+
+Import trace:
+  Server Component:
+    ./app/hooks/useUser.ts
+    ./app/page.tsx
+[00:12:01.937] Browser ERROR   ./app/page.tsx:1:19
+Ecmascript file had an error
+> 1 | import { useMemo, useState } from "react";
+    |                   ^^^^^^^^
+  2 | import { useUser } from "./hooks/useUser";
+  3 |
+  4 | export default function Page() {
+
+You're importing a component that needs `useState`. This React Hook only works in a Client Component. To fix, mark the file (or its parent) with the `"use client"` directive.
+
+ Learn more: https://nextjs.org/docs/app/api-reference/directives/use-client
+[00:12:08.937] Browser ERROR   ./app/hooks/useUser.ts:2:23
+Ecmascript file had an error
+  1 | import axios from "axios";
+> 2 | import { useCallback, useEffect, useState } from "react";
+    |                       ^^^^^^^^^
+  3 | import { IUser } from "../types/user";
+  4 |
+  5 | const api = axios.create({
+
+You're importing a component that needs `useEffect`. This React Hook only works in a Client Component. To fix, mark the file (or its parent) with the `"use client"` directive.
+
+ Learn more: https://nextjs.org/docs/app/api-reference/directives/use-client
+
+Import trace:
+  Server Component:
+    ./app/hooks/useUser.ts
+    ./app/page.tsx
+[00:12:08.937] Browser ERROR   ./app/hooks/useUser.ts:2:34
+Ecmascript file had an error
+  1 | import axios from "axios";
+> 2 | import { useCallback, useEffect, useState } from "react";
+    |                                  ^^^^^^^^
+  3 | import { IUser } from "../types/user";
+  4 |
+  5 | const api = axios.create({
+
+You're importing a component that needs `useState`. This React Hook only works in a Client Component. To fix, mark the file (or its parent) with the `"use client"` directive.
+
+ Learn more: https://nextjs.org/docs/app/api-reference/directives/use-client
+
+Import trace:
+  Server Component:
+    ./app/hooks/useUser.ts
+    ./app/page.tsx
+[00:12:08.937] Browser ERROR   ./app/page.tsx:1:19
+Ecmascript file had an error
+> 1 | import { useMemo, useState } from "react";
+    |                   ^^^^^^^^
+  2 | import { useUser } from "./hooks/useUser";
+  3 |
+  4 | export default function Page() {
+
+You're importing a component that needs `useState`. This React Hook only works in a Client Component. To fix, mark the file (or its parent) with the `"use client"` directive.
+
+ Learn more: https://nextjs.org/docs/app/api-reference/directives/use-client
+[00:12:13.260] Server  ERROR   ⨯ ./app/page.tsx:1:1
+Module not found: Can't resolve './UserDirectoryClient'
+> 1 | import UserDirectoryClient from "./UserDirectoryClient";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  2 |
+  3 | export default function Page() {
+  4 |   return (
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:12:13.260] Server  ERROR   ⨯ ./app/page.tsx:1:1
+Module not found: Can't resolve './UserDirectoryClient'
+> 1 | import UserDirectoryClient from "./UserDirectoryClient";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  2 |
+  3 | export default function Page() {
+  4 |   return (
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:12:13.261] Server  ERROR   ⨯ ./app/page.tsx:1:1
+Module not found: Can't resolve './UserDirectoryClient'
+> 1 | import UserDirectoryClient from "./UserDirectoryClient";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  2 |
+  3 | export default function Page() {
+  4 |   return (
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:12:13.261] Server  ERROR   ⨯ ./app/page.tsx:1:1
+Module not found: Can't resolve './UserDirectoryClient'
+> 1 | import UserDirectoryClient from "./UserDirectoryClient";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  2 |
+  3 | export default function Page() {
+  4 |   return (
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:12:13.262] Server  ERROR   ⨯ ./app/page.tsx:1:1
+Module not found: Can't resolve './UserDirectoryClient'
+> 1 | import UserDirectoryClient from "./UserDirectoryClient";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  2 |
+  3 | export default function Page() {
+  4 |   return (
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:12:13.262] Server  ERROR   ⨯ ./app/page.tsx:1:1
+Module not found: Can't resolve './UserDirectoryClient'
+> 1 | import UserDirectoryClient from "./UserDirectoryClient";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  2 |
+  3 | export default function Page() {
+  4 |   return (
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:12:13.262] Server  ERROR   ⨯ ./app/page.tsx:1:1
+Module not found: Can't resolve './UserDirectoryClient'
+> 1 | import UserDirectoryClient from "./UserDirectoryClient";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  2 |
+  3 | export default function Page() {
+  4 |   return (
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:12:13.262] Server  ERROR   ⨯ ./app/page.tsx:1:1
+Module not found: Can't resolve './UserDirectoryClient'
+> 1 | import UserDirectoryClient from "./UserDirectoryClient";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  2 |
+  3 | export default function Page() {
+  4 |   return (
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:12:13.263] Server  ERROR   ⨯ ./app/page.tsx:1:1
+Module not found: Can't resolve './UserDirectoryClient'
+> 1 | import UserDirectoryClient from "./UserDirectoryClient";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  2 |
+  3 | export default function Page() {
+  4 |   return (
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:12:13.264] Server  ERROR   ⨯ ./app/page.tsx:1:1
+Module not found: Can't resolve './UserDirectoryClient'
+> 1 | import UserDirectoryClient from "./UserDirectoryClient";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  2 |
+  3 | export default function Page() {
+  4 |   return (
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:12:13.264] Server  ERROR   ⨯ ./app/page.tsx:1:1
+Module not found: Can't resolve './UserDirectoryClient'
+> 1 | import UserDirectoryClient from "./UserDirectoryClient";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  2 |
+  3 | export default function Page() {
+  4 |   return (
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:12:13.264] Server  ERROR   ⨯ ./app/page.tsx:1:1
+Module not found: Can't resolve './UserDirectoryClient'
+> 1 | import UserDirectoryClient from "./UserDirectoryClient";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  2 |
+  3 | export default function Page() {
+  4 |   return (
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:12:13.936] Browser ERROR   ./app/page.tsx:1:1
+Module not found: Can't resolve './UserDirectoryClient'
+> 1 | import UserDirectoryClient from "./UserDirectoryClient";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  2 |
+  3 | export default function Page() {
+  4 |   return (
+
+https://nextjs.org/docs/messages/module-not-found
+[00:12:18.674] Server  LOG     ✓ Compiled in 172ms
+[00:13:22.619] Server  LOG     ✓ Compiled in 47ms
+[00:13:32.387] Server  LOG     ✓ Compiled in 53ms
+[00:14:04.848] Server  LOG     ✓ Compiled in 47ms
+[00:14:09.542] Server  LOG     ✓ Compiled in 32ms
+[00:16:42.077] Server  LOG     ✓ Compiled in 42ms
+[00:16:54.477] Server  LOG     ✓ Compiled in 73ms
+[00:17:12.795] Server  LOG     ✓ Compiled in 32ms
+[00:17:18.359] Server  LOG     ✓ Compiled in 10ms
+[00:18:00.127] Server  LOG     ✓ Compiled in 31ms
+[00:18:13.768] Server  LOG     ✓ Compiled in 49ms
+[00:18:13.937] Browser ERROR   uncaughtError: ReferenceError: UserTableSkeleton is not defined
+[00:18:42.343] Server  WARN    ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[00:18:42.367] Server  LOG     ✓ Compiled in 42ms
+[00:18:49.577] Server  ERROR   ⨯ ./app/components/UserDirectoryClient.tsx:5:1
+Module not found: Can't resolve './UserTableSkeleton'
+  3 | import { useMemo, useState } from "react";
+  4 | import { useUser } from "../hooks/useUser";
+> 5 | import UserTableSkeleton from "./UserTableSkeleton";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | export default function UserDirectoryClient() {
+  8 |   const { users, loading, error, refetch } = useUser();
+
+
+
+Import trace:
+  Server Component:
+    ./app/components/UserDirectoryClient.tsx
+    ./app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:18:49.578] Server  ERROR   ⨯ ./app/components/UserDirectoryClient.tsx:5:1
+Module not found: Can't resolve './UserTableSkeleton'
+  3 | import { useMemo, useState } from "react";
+  4 | import { useUser } from "../hooks/useUser";
+> 5 | import UserTableSkeleton from "./UserTableSkeleton";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | export default function UserDirectoryClient() {
+  8 |   const { users, loading, error, refetch } = useUser();
+
+
+
+Import trace:
+  Server Component:
+    ./app/components/UserDirectoryClient.tsx
+    ./app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:18:49.578] Server  ERROR   ⨯ ./app/components/UserDirectoryClient.tsx:5:1
+Module not found: Can't resolve './UserTableSkeleton'
+  3 | import { useMemo, useState } from "react";
+  4 | import { useUser } from "../hooks/useUser";
+> 5 | import UserTableSkeleton from "./UserTableSkeleton";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | export default function UserDirectoryClient() {
+  8 |   const { users, loading, error, refetch } = useUser();
+
+
+
+Import trace:
+  Server Component:
+    ./app/components/UserDirectoryClient.tsx
+    ./app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:18:49.579] Server  ERROR   ⨯ ./app/components/UserDirectoryClient.tsx:5:1
+Module not found: Can't resolve './UserTableSkeleton'
+  3 | import { useMemo, useState } from "react";
+  4 | import { useUser } from "../hooks/useUser";
+> 5 | import UserTableSkeleton from "./UserTableSkeleton";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | export default function UserDirectoryClient() {
+  8 |   const { users, loading, error, refetch } = useUser();
+
+
+
+Import trace:
+  Server Component:
+    ./app/components/UserDirectoryClient.tsx
+    ./app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:18:49.599] Server  ERROR   ⨯ ./app/components/UserDirectoryClient.tsx:5:1
+Module not found: Can't resolve './UserTableSkeleton'
+  3 | import { useMemo, useState } from "react";
+  4 | import { useUser } from "../hooks/useUser";
+> 5 | import UserTableSkeleton from "./UserTableSkeleton";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | export default function UserDirectoryClient() {
+  8 |   const { users, loading, error, refetch } = useUser();
+
+
+
+Import trace:
+  Server Component:
+    ./app/components/UserDirectoryClient.tsx
+    ./app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:18:49.599] Server  ERROR   ⨯ ./app/components/UserDirectoryClient.tsx:5:1
+Module not found: Can't resolve './UserTableSkeleton'
+  3 | import { useMemo, useState } from "react";
+  4 | import { useUser } from "../hooks/useUser";
+> 5 | import UserTableSkeleton from "./UserTableSkeleton";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | export default function UserDirectoryClient() {
+  8 |   const { users, loading, error, refetch } = useUser();
+
+
+
+Import trace:
+  Server Component:
+    ./app/components/UserDirectoryClient.tsx
+    ./app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:18:49.600] Server  ERROR   ⨯ ./app/components/UserDirectoryClient.tsx:5:1
+Module not found: Can't resolve './UserTableSkeleton'
+  3 | import { useMemo, useState } from "react";
+  4 | import { useUser } from "../hooks/useUser";
+> 5 | import UserTableSkeleton from "./UserTableSkeleton";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | export default function UserDirectoryClient() {
+  8 |   const { users, loading, error, refetch } = useUser();
+
+
+
+Import trace:
+  Server Component:
+    ./app/components/UserDirectoryClient.tsx
+    ./app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:18:49.600] Server  ERROR   ⨯ ./app/components/UserDirectoryClient.tsx:5:1
+Module not found: Can't resolve './UserTableSkeleton'
+  3 | import { useMemo, useState } from "react";
+  4 | import { useUser } from "../hooks/useUser";
+> 5 | import UserTableSkeleton from "./UserTableSkeleton";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | export default function UserDirectoryClient() {
+  8 |   const { users, loading, error, refetch } = useUser();
+
+
+
+Import trace:
+  Server Component:
+    ./app/components/UserDirectoryClient.tsx
+    ./app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:18:49.601] Server  ERROR   ⨯ ./app/components/UserDirectoryClient.tsx:5:1
+Module not found: Can't resolve './UserTableSkeleton'
+  3 | import { useMemo, useState } from "react";
+  4 | import { useUser } from "../hooks/useUser";
+> 5 | import UserTableSkeleton from "./UserTableSkeleton";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | export default function UserDirectoryClient() {
+  8 |   const { users, loading, error, refetch } = useUser();
+
+
+
+Import trace:
+  Server Component:
+    ./app/components/UserDirectoryClient.tsx
+    ./app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:18:49.604] Server  ERROR   ⨯ ./app/components/UserDirectoryClient.tsx:5:1
+Module not found: Can't resolve './UserTableSkeleton'
+  3 | import { useMemo, useState } from "react";
+  4 | import { useUser } from "../hooks/useUser";
+> 5 | import UserTableSkeleton from "./UserTableSkeleton";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | export default function UserDirectoryClient() {
+  8 |   const { users, loading, error, refetch } = useUser();
+
+
+
+Import trace:
+  Server Component:
+    ./app/components/UserDirectoryClient.tsx
+    ./app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:18:49.607] Server  ERROR   ⨯ ./app/components/UserDirectoryClient.tsx:5:1
+Module not found: Can't resolve './UserTableSkeleton'
+  3 | import { useMemo, useState } from "react";
+  4 | import { useUser } from "../hooks/useUser";
+> 5 | import UserTableSkeleton from "./UserTableSkeleton";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | export default function UserDirectoryClient() {
+  8 |   const { users, loading, error, refetch } = useUser();
+
+
+
+Import trace:
+  Server Component:
+    ./app/components/UserDirectoryClient.tsx
+    ./app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:18:49.608] Server  ERROR   ⨯ ./app/components/UserDirectoryClient.tsx:5:1
+Module not found: Can't resolve './UserTableSkeleton'
+  3 | import { useMemo, useState } from "react";
+  4 | import { useUser } from "../hooks/useUser";
+> 5 | import UserTableSkeleton from "./UserTableSkeleton";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | export default function UserDirectoryClient() {
+  8 |   const { users, loading, error, refetch } = useUser();
+
+
+
+Import trace:
+  Server Component:
+    ./app/components/UserDirectoryClient.tsx
+    ./app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:18:49.610] Server  ERROR   ⨯ ./app/components/UserDirectoryClient.tsx:5:1
+Module not found: Can't resolve './UserTableSkeleton'
+  3 | import { useMemo, useState } from "react";
+  4 | import { useUser } from "../hooks/useUser";
+> 5 | import UserTableSkeleton from "./UserTableSkeleton";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | export default function UserDirectoryClient() {
+  8 |   const { users, loading, error, refetch } = useUser();
+
+
+
+Import trace:
+  Server Component:
+    ./app/components/UserDirectoryClient.tsx
+    ./app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:18:49.611] Server  ERROR   ⨯ ./app/components/UserDirectoryClient.tsx:5:1
+Module not found: Can't resolve './UserTableSkeleton'
+  3 | import { useMemo, useState } from "react";
+  4 | import { useUser } from "../hooks/useUser";
+> 5 | import UserTableSkeleton from "./UserTableSkeleton";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | export default function UserDirectoryClient() {
+  8 |   const { users, loading, error, refetch } = useUser();
+
+
+
+Import trace:
+  Server Component:
+    ./app/components/UserDirectoryClient.tsx
+    ./app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:18:49.612] Server  ERROR   ⨯ ./app/components/UserDirectoryClient.tsx:5:1
+Module not found: Can't resolve './UserTableSkeleton'
+  3 | import { useMemo, useState } from "react";
+  4 | import { useUser } from "../hooks/useUser";
+> 5 | import UserTableSkeleton from "./UserTableSkeleton";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | export default function UserDirectoryClient() {
+  8 |   const { users, loading, error, refetch } = useUser();
+
+
+
+Import trace:
+  Server Component:
+    ./app/components/UserDirectoryClient.tsx
+    ./app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:18:49.614] Server  ERROR   ⨯ ./app/components/UserDirectoryClient.tsx:5:1
+Module not found: Can't resolve './UserTableSkeleton'
+  3 | import { useMemo, useState } from "react";
+  4 | import { useUser } from "../hooks/useUser";
+> 5 | import UserTableSkeleton from "./UserTableSkeleton";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | export default function UserDirectoryClient() {
+  8 |   const { users, loading, error, refetch } = useUser();
+
+
+
+Import trace:
+  Server Component:
+    ./app/components/UserDirectoryClient.tsx
+    ./app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:18:49.618] Server  ERROR   ⨯ ./app/components/UserDirectoryClient.tsx:5:1
+Module not found: Can't resolve './UserTableSkeleton'
+  3 | import { useMemo, useState } from "react";
+  4 | import { useUser } from "../hooks/useUser";
+> 5 | import UserTableSkeleton from "./UserTableSkeleton";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | export default function UserDirectoryClient() {
+  8 |   const { users, loading, error, refetch } = useUser();
+
+
+
+Import trace:
+  Server Component:
+    ./app/components/UserDirectoryClient.tsx
+    ./app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:18:49.625] Server  ERROR   ⨯ ./app/components/UserDirectoryClient.tsx:5:1
+Module not found: Can't resolve './UserTableSkeleton'
+  3 | import { useMemo, useState } from "react";
+  4 | import { useUser } from "../hooks/useUser";
+> 5 | import UserTableSkeleton from "./UserTableSkeleton";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | export default function UserDirectoryClient() {
+  8 |   const { users, loading, error, refetch } = useUser();
+
+
+
+Import trace:
+  Server Component:
+    ./app/components/UserDirectoryClient.tsx
+    ./app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:18:49.626] Server  ERROR   ⨯ ./app/components/UserDirectoryClient.tsx:5:1
+Module not found: Can't resolve './UserTableSkeleton'
+  3 | import { useMemo, useState } from "react";
+  4 | import { useUser } from "../hooks/useUser";
+> 5 | import UserTableSkeleton from "./UserTableSkeleton";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | export default function UserDirectoryClient() {
+  8 |   const { users, loading, error, refetch } = useUser();
+
+
+
+Import trace:
+  Server Component:
+    ./app/components/UserDirectoryClient.tsx
+    ./app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:18:49.626] Server  ERROR   ⨯ ./app/components/UserDirectoryClient.tsx:5:1
+Module not found: Can't resolve './UserTableSkeleton'
+  3 | import { useMemo, useState } from "react";
+  4 | import { useUser } from "../hooks/useUser";
+> 5 | import UserTableSkeleton from "./UserTableSkeleton";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | export default function UserDirectoryClient() {
+  8 |   const { users, loading, error, refetch } = useUser();
+
+
+
+Import trace:
+  Server Component:
+    ./app/components/UserDirectoryClient.tsx
+    ./app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:18:49.627] Server  ERROR   ⨯ ./app/components/UserDirectoryClient.tsx:5:1
+Module not found: Can't resolve './UserTableSkeleton'
+  3 | import { useMemo, useState } from "react";
+  4 | import { useUser } from "../hooks/useUser";
+> 5 | import UserTableSkeleton from "./UserTableSkeleton";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | export default function UserDirectoryClient() {
+  8 |   const { users, loading, error, refetch } = useUser();
+
+
+
+Import trace:
+  Server Component:
+    ./app/components/UserDirectoryClient.tsx
+    ./app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:18:49.628] Server  ERROR   ⨯ ./app/components/UserDirectoryClient.tsx:5:1
+Module not found: Can't resolve './UserTableSkeleton'
+  3 | import { useMemo, useState } from "react";
+  4 | import { useUser } from "../hooks/useUser";
+> 5 | import UserTableSkeleton from "./UserTableSkeleton";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | export default function UserDirectoryClient() {
+  8 |   const { users, loading, error, refetch } = useUser();
+
+
+
+Import trace:
+  Server Component:
+    ./app/components/UserDirectoryClient.tsx
+    ./app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:18:49.628] Server  ERROR   ⨯ ./app/components/UserDirectoryClient.tsx:5:1
+Module not found: Can't resolve './UserTableSkeleton'
+  3 | import { useMemo, useState } from "react";
+  4 | import { useUser } from "../hooks/useUser";
+> 5 | import UserTableSkeleton from "./UserTableSkeleton";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | export default function UserDirectoryClient() {
+  8 |   const { users, loading, error, refetch } = useUser();
+
+
+
+Import trace:
+  Server Component:
+    ./app/components/UserDirectoryClient.tsx
+    ./app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:18:49.629] Server  ERROR   ⨯ ./app/components/UserDirectoryClient.tsx:5:1
+Module not found: Can't resolve './UserTableSkeleton'
+  3 | import { useMemo, useState } from "react";
+  4 | import { useUser } from "../hooks/useUser";
+> 5 | import UserTableSkeleton from "./UserTableSkeleton";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | export default function UserDirectoryClient() {
+  8 |   const { users, loading, error, refetch } = useUser();
+
+
+
+Import trace:
+  Server Component:
+    ./app/components/UserDirectoryClient.tsx
+    ./app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:18:49.629] Server  ERROR   ⨯ ./app/components/UserDirectoryClient.tsx:5:1
+Module not found: Can't resolve './UserTableSkeleton'
+  3 | import { useMemo, useState } from "react";
+  4 | import { useUser } from "../hooks/useUser";
+> 5 | import UserTableSkeleton from "./UserTableSkeleton";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | export default function UserDirectoryClient() {
+  8 |   const { users, loading, error, refetch } = useUser();
+
+
+
+Import trace:
+  Server Component:
+    ./app/components/UserDirectoryClient.tsx
+    ./app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:18:49.630] Server  ERROR   ⨯ ./app/components/UserDirectoryClient.tsx:5:1
+Module not found: Can't resolve './UserTableSkeleton'
+  3 | import { useMemo, useState } from "react";
+  4 | import { useUser } from "../hooks/useUser";
+> 5 | import UserTableSkeleton from "./UserTableSkeleton";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | export default function UserDirectoryClient() {
+  8 |   const { users, loading, error, refetch } = useUser();
+
+
+
+Import trace:
+  Server Component:
+    ./app/components/UserDirectoryClient.tsx
+    ./app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:18:49.630] Server  ERROR   ⨯ ./app/components/UserDirectoryClient.tsx:5:1
+Module not found: Can't resolve './UserTableSkeleton'
+  3 | import { useMemo, useState } from "react";
+  4 | import { useUser } from "../hooks/useUser";
+> 5 | import UserTableSkeleton from "./UserTableSkeleton";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | export default function UserDirectoryClient() {
+  8 |   const { users, loading, error, refetch } = useUser();
+
+
+
+Import trace:
+  Server Component:
+    ./app/components/UserDirectoryClient.tsx
+    ./app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:18:49.631] Server  ERROR   ⨯ ./app/components/UserDirectoryClient.tsx:5:1
+Module not found: Can't resolve './UserTableSkeleton'
+  3 | import { useMemo, useState } from "react";
+  4 | import { useUser } from "../hooks/useUser";
+> 5 | import UserTableSkeleton from "./UserTableSkeleton";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | export default function UserDirectoryClient() {
+  8 |   const { users, loading, error, refetch } = useUser();
+
+
+
+Import trace:
+  Server Component:
+    ./app/components/UserDirectoryClient.tsx
+    ./app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:18:49.632] Server  ERROR   ⨯ ./app/components/UserDirectoryClient.tsx:5:1
+Module not found: Can't resolve './UserTableSkeleton'
+  3 | import { useMemo, useState } from "react";
+  4 | import { useUser } from "../hooks/useUser";
+> 5 | import UserTableSkeleton from "./UserTableSkeleton";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | export default function UserDirectoryClient() {
+  8 |   const { users, loading, error, refetch } = useUser();
+
+
+
+Import trace:
+  Server Component:
+    ./app/components/UserDirectoryClient.tsx
+    ./app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:18:49.632] Server  ERROR   ⨯ ./app/components/UserDirectoryClient.tsx:5:1
+Module not found: Can't resolve './UserTableSkeleton'
+  3 | import { useMemo, useState } from "react";
+  4 | import { useUser } from "../hooks/useUser";
+> 5 | import UserTableSkeleton from "./UserTableSkeleton";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | export default function UserDirectoryClient() {
+  8 |   const { users, loading, error, refetch } = useUser();
+
+
+
+Import trace:
+  Server Component:
+    ./app/components/UserDirectoryClient.tsx
+    ./app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:18:49.633] Server  ERROR   ⨯ ./app/components/UserDirectoryClient.tsx:5:1
+Module not found: Can't resolve './UserTableSkeleton'
+  3 | import { useMemo, useState } from "react";
+  4 | import { useUser } from "../hooks/useUser";
+> 5 | import UserTableSkeleton from "./UserTableSkeleton";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | export default function UserDirectoryClient() {
+  8 |   const { users, loading, error, refetch } = useUser();
+
+
+
+Import trace:
+  Server Component:
+    ./app/components/UserDirectoryClient.tsx
+    ./app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:18:49.633] Server  ERROR   ⨯ ./app/components/UserDirectoryClient.tsx:5:1
+Module not found: Can't resolve './UserTableSkeleton'
+  3 | import { useMemo, useState } from "react";
+  4 | import { useUser } from "../hooks/useUser";
+> 5 | import UserTableSkeleton from "./UserTableSkeleton";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | export default function UserDirectoryClient() {
+  8 |   const { users, loading, error, refetch } = useUser();
+
+
+
+Import trace:
+  Server Component:
+    ./app/components/UserDirectoryClient.tsx
+    ./app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:18:49.635] Server  LOG     ✓ Compiled in 44ms
+[00:18:49.937] Browser ERROR   ./app/components/UserDirectoryClient.tsx:5:1
+Module not found: Can't resolve './UserTableSkeleton'
+  3 | import { useMemo, useState } from "react";
+  4 | import { useUser } from "../hooks/useUser";
+> 5 | import UserTableSkeleton from "./UserTableSkeleton";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | export default function UserDirectoryClient() {
+  8 |   const { users, loading, error, refetch } = useUser();
+
+Import trace:
+  Server Component:
+    ./app/components/UserDirectoryClient.tsx
+    ./app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+[00:18:56.636] Server  ERROR   ⨯ ./app/components/UserDirectoryClient.tsx:5:1
+Module not found: Can't resolve './UserTableSkeleton'
+  3 | import { useMemo, useState } from "react";
+  4 | import { useUser } from "../hooks/useUser";
+> 5 | import UserTableSkeleton from "./UserDirectorySkeleton";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 | \
+  7 | export default function UserDirectoryClient() {
+  8 |   const { users, loading, error, refetch } = useUser();
+
+
+
+Import trace:
+  Server Component:
+    ./app/components/UserDirectoryClient.tsx
+    ./app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:18:56.636] Server  ERROR   ⨯ ./app/components/UserDirectoryClient.tsx:5:1
+Module not found: Can't resolve './UserTableSkeleton'
+  3 | import { useMemo, useState } from "react";
+  4 | import { useUser } from "../hooks/useUser";
+> 5 | import UserTableSkeleton from "./UserDirectorySkeleton";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 | \
+  7 | export default function UserDirectoryClient() {
+  8 |   const { users, loading, error, refetch } = useUser();
+
+
+
+Import trace:
+  Server Component:
+    ./app/components/UserDirectoryClient.tsx
+    ./app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:18:56.637] Server  ERROR   ⨯ ./app/components/UserDirectoryClient.tsx:5:1
+Module not found: Can't resolve './UserTableSkeleton'
+  3 | import { useMemo, useState } from "react";
+  4 | import { useUser } from "../hooks/useUser";
+> 5 | import UserTableSkeleton from "./UserDirectorySkeleton";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 | \
+  7 | export default function UserDirectoryClient() {
+  8 |   const { users, loading, error, refetch } = useUser();
+
+
+
+Import trace:
+  Server Component:
+    ./app/components/UserDirectoryClient.tsx
+    ./app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:18:56.637] Server  ERROR   ⨯ ./app/components/UserDirectoryClient.tsx:5:1
+Module not found: Can't resolve './UserTableSkeleton'
+  3 | import { useMemo, useState } from "react";
+  4 | import { useUser } from "../hooks/useUser";
+> 5 | import UserTableSkeleton from "./UserDirectorySkeleton";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 | \
+  7 | export default function UserDirectoryClient() {
+  8 |   const { users, loading, error, refetch } = useUser();
+
+
+
+Import trace:
+  Server Component:
+    ./app/components/UserDirectoryClient.tsx
+    ./app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:18:56.638] Server  ERROR   ⨯ ./app/components/UserDirectoryClient.tsx:5:1
+Module not found: Can't resolve './UserTableSkeleton'
+  3 | import { useMemo, useState } from "react";
+  4 | import { useUser } from "../hooks/useUser";
+> 5 | import UserTableSkeleton from "./UserDirectorySkeleton";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 | \
+  7 | export default function UserDirectoryClient() {
+  8 |   const { users, loading, error, refetch } = useUser();
+
+
+
+Import trace:
+  Server Component:
+    ./app/components/UserDirectoryClient.tsx
+    ./app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:18:56.638] Server  ERROR   ⨯ ./app/components/UserDirectoryClient.tsx:5:1
+Module not found: Can't resolve './UserTableSkeleton'
+  3 | import { useMemo, useState } from "react";
+  4 | import { useUser } from "../hooks/useUser";
+> 5 | import UserTableSkeleton from "./UserDirectorySkeleton";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 | \
+  7 | export default function UserDirectoryClient() {
+  8 |   const { users, loading, error, refetch } = useUser();
+
+
+
+Import trace:
+  Server Component:
+    ./app/components/UserDirectoryClient.tsx
+    ./app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:18:56.639] Server  ERROR   ⨯ ./app/components/UserDirectoryClient.tsx:5:1
+Module not found: Can't resolve './UserTableSkeleton'
+  3 | import { useMemo, useState } from "react";
+  4 | import { useUser } from "../hooks/useUser";
+> 5 | import UserTableSkeleton from "./UserDirectorySkeleton";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 | \
+  7 | export default function UserDirectoryClient() {
+  8 |   const { users, loading, error, refetch } = useUser();
+
+
+
+Import trace:
+  Server Component:
+    ./app/components/UserDirectoryClient.tsx
+    ./app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:18:56.639] Server  ERROR   ⨯ ./app/components/UserDirectoryClient.tsx:5:1
+Module not found: Can't resolve './UserTableSkeleton'
+  3 | import { useMemo, useState } from "react";
+  4 | import { useUser } from "../hooks/useUser";
+> 5 | import UserTableSkeleton from "./UserDirectorySkeleton";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 | \
+  7 | export default function UserDirectoryClient() {
+  8 |   const { users, loading, error, refetch } = useUser();
+
+
+
+Import trace:
+  Server Component:
+    ./app/components/UserDirectoryClient.tsx
+    ./app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:18:56.640] Server  ERROR   ⨯ ./app/components/UserDirectoryClient.tsx:5:1
+Module not found: Can't resolve './UserTableSkeleton'
+  3 | import { useMemo, useState } from "react";
+  4 | import { useUser } from "../hooks/useUser";
+> 5 | import UserTableSkeleton from "./UserDirectorySkeleton";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 | \
+  7 | export default function UserDirectoryClient() {
+  8 |   const { users, loading, error, refetch } = useUser();
+
+
+
+Import trace:
+  Server Component:
+    ./app/components/UserDirectoryClient.tsx
+    ./app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:18:56.641] Server  ERROR   ⨯ ./app/components/UserDirectoryClient.tsx:5:1
+Module not found: Can't resolve './UserTableSkeleton'
+  3 | import { useMemo, useState } from "react";
+  4 | import { useUser } from "../hooks/useUser";
+> 5 | import UserTableSkeleton from "./UserDirectorySkeleton";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 | \
+  7 | export default function UserDirectoryClient() {
+  8 |   const { users, loading, error, refetch } = useUser();
+
+
+
+Import trace:
+  Server Component:
+    ./app/components/UserDirectoryClient.tsx
+    ./app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:18:56.641] Server  ERROR   ⨯ ./app/components/UserDirectoryClient.tsx:5:1
+Module not found: Can't resolve './UserTableSkeleton'
+  3 | import { useMemo, useState } from "react";
+  4 | import { useUser } from "../hooks/useUser";
+> 5 | import UserTableSkeleton from "./UserDirectorySkeleton";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 | \
+  7 | export default function UserDirectoryClient() {
+  8 |   const { users, loading, error, refetch } = useUser();
+
+
+
+Import trace:
+  Server Component:
+    ./app/components/UserDirectoryClient.tsx
+    ./app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:18:56.643] Server  ERROR   ⨯ ./app/components/UserDirectoryClient.tsx:5:1
+Module not found: Can't resolve './UserTableSkeleton'
+  3 | import { useMemo, useState } from "react";
+  4 | import { useUser } from "../hooks/useUser";
+> 5 | import UserTableSkeleton from "./UserDirectorySkeleton";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 | \
+  7 | export default function UserDirectoryClient() {
+  8 |   const { users, loading, error, refetch } = useUser();
+
+
+
+Import trace:
+  Server Component:
+    ./app/components/UserDirectoryClient.tsx
+    ./app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:18:56.644] Server  ERROR   ⨯ ./app/components/UserDirectoryClient.tsx:5:1
+Module not found: Can't resolve './UserTableSkeleton'
+  3 | import { useMemo, useState } from "react";
+  4 | import { useUser } from "../hooks/useUser";
+> 5 | import UserTableSkeleton from "./UserDirectorySkeleton";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 | \
+  7 | export default function UserDirectoryClient() {
+  8 |   const { users, loading, error, refetch } = useUser();
+
+
+
+Import trace:
+  Server Component:
+    ./app/components/UserDirectoryClient.tsx
+    ./app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:18:56.644] Server  ERROR   ⨯ ./app/components/UserDirectoryClient.tsx:5:1
+Module not found: Can't resolve './UserTableSkeleton'
+  3 | import { useMemo, useState } from "react";
+  4 | import { useUser } from "../hooks/useUser";
+> 5 | import UserTableSkeleton from "./UserDirectorySkeleton";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 | \
+  7 | export default function UserDirectoryClient() {
+  8 |   const { users, loading, error, refetch } = useUser();
+
+
+
+Import trace:
+  Server Component:
+    ./app/components/UserDirectoryClient.tsx
+    ./app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:18:56.645] Server  ERROR   ⨯ ./app/components/UserDirectoryClient.tsx:5:1
+Module not found: Can't resolve './UserTableSkeleton'
+  3 | import { useMemo, useState } from "react";
+  4 | import { useUser } from "../hooks/useUser";
+> 5 | import UserTableSkeleton from "./UserDirectorySkeleton";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 | \
+  7 | export default function UserDirectoryClient() {
+  8 |   const { users, loading, error, refetch } = useUser();
+
+
+
+Import trace:
+  Server Component:
+    ./app/components/UserDirectoryClient.tsx
+    ./app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:18:56.645] Server  ERROR   ⨯ ./app/components/UserDirectoryClient.tsx:5:1
+Module not found: Can't resolve './UserTableSkeleton'
+  3 | import { useMemo, useState } from "react";
+  4 | import { useUser } from "../hooks/useUser";
+> 5 | import UserTableSkeleton from "./UserDirectorySkeleton";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 | \
+  7 | export default function UserDirectoryClient() {
+  8 |   const { users, loading, error, refetch } = useUser();
+
+
+
+Import trace:
+  Server Component:
+    ./app/components/UserDirectoryClient.tsx
+    ./app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:18:56.646] Server  ERROR   ⨯ ./app/components/UserDirectoryClient.tsx:5:1
+Module not found: Can't resolve './UserTableSkeleton'
+  3 | import { useMemo, useState } from "react";
+  4 | import { useUser } from "../hooks/useUser";
+> 5 | import UserTableSkeleton from "./UserDirectorySkeleton";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 | \
+  7 | export default function UserDirectoryClient() {
+  8 |   const { users, loading, error, refetch } = useUser();
+
+
+
+Import trace:
+  Server Component:
+    ./app/components/UserDirectoryClient.tsx
+    ./app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:18:56.647] Server  ERROR   ⨯ ./app/components/UserDirectoryClient.tsx:5:1
+Module not found: Can't resolve './UserTableSkeleton'
+  3 | import { useMemo, useState } from "react";
+  4 | import { useUser } from "../hooks/useUser";
+> 5 | import UserTableSkeleton from "./UserDirectorySkeleton";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 | \
+  7 | export default function UserDirectoryClient() {
+  8 |   const { users, loading, error, refetch } = useUser();
+
+
+
+Import trace:
+  Server Component:
+    ./app/components/UserDirectoryClient.tsx
+    ./app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:18:56.648] Server  ERROR   ⨯ ./app/components/UserDirectoryClient.tsx:5:1
+Module not found: Can't resolve './UserTableSkeleton'
+  3 | import { useMemo, useState } from "react";
+  4 | import { useUser } from "../hooks/useUser";
+> 5 | import UserTableSkeleton from "./UserDirectorySkeleton";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 | \
+  7 | export default function UserDirectoryClient() {
+  8 |   const { users, loading, error, refetch } = useUser();
+
+
+
+Import trace:
+  Server Component:
+    ./app/components/UserDirectoryClient.tsx
+    ./app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:18:56.648] Server  ERROR   ⨯ ./app/components/UserDirectoryClient.tsx:5:1
+Module not found: Can't resolve './UserTableSkeleton'
+  3 | import { useMemo, useState } from "react";
+  4 | import { useUser } from "../hooks/useUser";
+> 5 | import UserTableSkeleton from "./UserDirectorySkeleton";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 | \
+  7 | export default function UserDirectoryClient() {
+  8 |   const { users, loading, error, refetch } = useUser();
+
+
+
+Import trace:
+  Server Component:
+    ./app/components/UserDirectoryClient.tsx
+    ./app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:18:56.650] Server  ERROR   ⨯ ./app/components/UserDirectoryClient.tsx:5:1
+Module not found: Can't resolve './UserTableSkeleton'
+  3 | import { useMemo, useState } from "react";
+  4 | import { useUser } from "../hooks/useUser";
+> 5 | import UserTableSkeleton from "./UserDirectorySkeleton";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 | \
+  7 | export default function UserDirectoryClient() {
+  8 |   const { users, loading, error, refetch } = useUser();
+
+
+
+Import trace:
+  Server Component:
+    ./app/components/UserDirectoryClient.tsx
+    ./app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:18:56.651] Server  ERROR   ⨯ ./app/components/UserDirectoryClient.tsx:5:1
+Module not found: Can't resolve './UserTableSkeleton'
+  3 | import { useMemo, useState } from "react";
+  4 | import { useUser } from "../hooks/useUser";
+> 5 | import UserTableSkeleton from "./UserDirectorySkeleton";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 | \
+  7 | export default function UserDirectoryClient() {
+  8 |   const { users, loading, error, refetch } = useUser();
+
+
+
+Import trace:
+  Server Component:
+    ./app/components/UserDirectoryClient.tsx
+    ./app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:18:56.651] Server  ERROR   ⨯ ./app/components/UserDirectoryClient.tsx:5:1
+Module not found: Can't resolve './UserTableSkeleton'
+  3 | import { useMemo, useState } from "react";
+  4 | import { useUser } from "../hooks/useUser";
+> 5 | import UserTableSkeleton from "./UserDirectorySkeleton";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 | \
+  7 | export default function UserDirectoryClient() {
+  8 |   const { users, loading, error, refetch } = useUser();
+
+
+
+Import trace:
+  Server Component:
+    ./app/components/UserDirectoryClient.tsx
+    ./app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:18:56.652] Server  ERROR   ⨯ ./app/components/UserDirectoryClient.tsx:5:1
+Module not found: Can't resolve './UserTableSkeleton'
+  3 | import { useMemo, useState } from "react";
+  4 | import { useUser } from "../hooks/useUser";
+> 5 | import UserTableSkeleton from "./UserDirectorySkeleton";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 | \
+  7 | export default function UserDirectoryClient() {
+  8 |   const { users, loading, error, refetch } = useUser();
+
+
+
+Import trace:
+  Server Component:
+    ./app/components/UserDirectoryClient.tsx
+    ./app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:18:56.653] Server  ERROR   ⨯ ./app/components/UserDirectoryClient.tsx:5:1
+Module not found: Can't resolve './UserTableSkeleton'
+  3 | import { useMemo, useState } from "react";
+  4 | import { useUser } from "../hooks/useUser";
+> 5 | import UserTableSkeleton from "./UserDirectorySkeleton";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 | \
+  7 | export default function UserDirectoryClient() {
+  8 |   const { users, loading, error, refetch } = useUser();
+
+
+
+Import trace:
+  Server Component:
+    ./app/components/UserDirectoryClient.tsx
+    ./app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:18:56.653] Server  ERROR   ⨯ ./app/components/UserDirectoryClient.tsx:5:1
+Module not found: Can't resolve './UserTableSkeleton'
+  3 | import { useMemo, useState } from "react";
+  4 | import { useUser } from "../hooks/useUser";
+> 5 | import UserTableSkeleton from "./UserDirectorySkeleton";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 | \
+  7 | export default function UserDirectoryClient() {
+  8 |   const { users, loading, error, refetch } = useUser();
+
+
+
+Import trace:
+  Server Component:
+    ./app/components/UserDirectoryClient.tsx
+    ./app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:18:56.654] Server  ERROR   ⨯ ./app/components/UserDirectoryClient.tsx:5:1
+Module not found: Can't resolve './UserTableSkeleton'
+  3 | import { useMemo, useState } from "react";
+  4 | import { useUser } from "../hooks/useUser";
+> 5 | import UserTableSkeleton from "./UserDirectorySkeleton";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 | \
+  7 | export default function UserDirectoryClient() {
+  8 |   const { users, loading, error, refetch } = useUser();
+
+
+
+Import trace:
+  Server Component:
+    ./app/components/UserDirectoryClient.tsx
+    ./app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:18:56.654] Server  ERROR   ⨯ ./app/components/UserDirectoryClient.tsx:5:1
+Module not found: Can't resolve './UserTableSkeleton'
+  3 | import { useMemo, useState } from "react";
+  4 | import { useUser } from "../hooks/useUser";
+> 5 | import UserTableSkeleton from "./UserDirectorySkeleton";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 | \
+  7 | export default function UserDirectoryClient() {
+  8 |   const { users, loading, error, refetch } = useUser();
+
+
+
+Import trace:
+  Server Component:
+    ./app/components/UserDirectoryClient.tsx
+    ./app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:18:56.655] Server  ERROR   ⨯ ./app/components/UserDirectoryClient.tsx:5:1
+Module not found: Can't resolve './UserTableSkeleton'
+  3 | import { useMemo, useState } from "react";
+  4 | import { useUser } from "../hooks/useUser";
+> 5 | import UserTableSkeleton from "./UserDirectorySkeleton";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 | \
+  7 | export default function UserDirectoryClient() {
+  8 |   const { users, loading, error, refetch } = useUser();
+
+
+
+Import trace:
+  Server Component:
+    ./app/components/UserDirectoryClient.tsx
+    ./app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:18:56.656] Server  ERROR   ⨯ ./app/components/UserDirectoryClient.tsx:5:1
+Module not found: Can't resolve './UserTableSkeleton'
+  3 | import { useMemo, useState } from "react";
+  4 | import { useUser } from "../hooks/useUser";
+> 5 | import UserTableSkeleton from "./UserDirectorySkeleton";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 | \
+  7 | export default function UserDirectoryClient() {
+  8 |   const { users, loading, error, refetch } = useUser();
+
+
+
+Import trace:
+  Server Component:
+    ./app/components/UserDirectoryClient.tsx
+    ./app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:18:56.656] Server  ERROR   ⨯ ./app/components/UserDirectoryClient.tsx:5:1
+Module not found: Can't resolve './UserTableSkeleton'
+  3 | import { useMemo, useState } from "react";
+  4 | import { useUser } from "../hooks/useUser";
+> 5 | import UserTableSkeleton from "./UserDirectorySkeleton";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 | \
+  7 | export default function UserDirectoryClient() {
+  8 |   const { users, loading, error, refetch } = useUser();
+
+
+
+Import trace:
+  Server Component:
+    ./app/components/UserDirectoryClient.tsx
+    ./app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:18:56.656] Server  ERROR   ⨯ ./app/components/UserDirectoryClient.tsx:5:1
+Module not found: Can't resolve './UserTableSkeleton'
+  3 | import { useMemo, useState } from "react";
+  4 | import { useUser } from "../hooks/useUser";
+> 5 | import UserTableSkeleton from "./UserDirectorySkeleton";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 | \
+  7 | export default function UserDirectoryClient() {
+  8 |   const { users, loading, error, refetch } = useUser();
+
+
+
+Import trace:
+  Server Component:
+    ./app/components/UserDirectoryClient.tsx
+    ./app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:18:56.667] Server  LOG     ✓ Compiled in 15ms
+[00:18:56.936] Browser ERROR   ./app/components/UserDirectoryClient.tsx:6:1
+Parsing ecmascript source code failed
+  4 | import { useUser } from "../hooks/useUser";
+  5 | import UserTableSkeleton from "./UserDirectorySkeleton";
+> 6 | \
+    | ^
+  7 | export default function UserDirectoryClient() {
+  8 |   const { users, loading, error, refetch } = useUser();
+  9 |   const [search, setSearch] = useState("");
+
+Expected unicode escape
+
+Import trace:
+  Server Component:
+    ./app/components/UserDirectoryClient.tsx
+    ./app/page.tsx
+[00:18:56.936] Browser ERROR   ./app/components/UserDirectoryClient.tsx:5:1
+Module not found: Can't resolve './UserTableSkeleton'
+  3 | import { useMemo, useState } from "react";
+  4 | import { useUser } from "../hooks/useUser";
+> 5 | import UserTableSkeleton from "./UserDirectorySkeleton";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 | \
+  7 | export default function UserDirectoryClient() {
+  8 |   const { users, loading, error, refetch } = useUser();
+
+Import trace:
+  Server Component:
+    ./app/components/UserDirectoryClient.tsx
+    ./app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+[00:19:36.711] Server  LOG     ✓ Compiled in 26ms
+[00:20:02.931] Server  LOG     ✓ Compiled in 49ms
